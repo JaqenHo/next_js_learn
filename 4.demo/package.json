@@ -1,0 +1,32 @@
+{
+  "name": "next_js_learn_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-less": "^1.0.1",
+    "@zeit/next-sass": "^1.0.1",
+    "antd": "^3.26.7",
+    "axios": "^0.19.2",
+    "less": "^3.10.3",
+    "less-loader": "^5.0.0",
+    "next": "^9.2.1",
+    "pg": "^7.17.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "^13.5.0",
+    "@types/react": "^16.9.19",
+    "typescript": "^3.7.5"
+  }
+}
